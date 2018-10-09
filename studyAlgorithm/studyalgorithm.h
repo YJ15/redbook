@@ -6,4 +6,4 @@
 using namespace std;
 
 void test0501();
-int bestInvitation(vector<string> first, vector<string> second);
+void test0502();
