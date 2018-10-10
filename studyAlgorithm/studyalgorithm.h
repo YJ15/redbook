@@ -7,3 +7,4 @@ using namespace std;
 
 void test0501();
 void test0502();
+void test0503();
